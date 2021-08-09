@@ -1,0 +1,8 @@
+.parallax {
+    margin: 0;
+    padding: 10px;
+    width: 100vw;
+    height: auto;
+    min-height: 400px;
+    background-color: rgb(131, 95, 160);
+}

@@ -1,0 +1,8 @@
+.header {
+    margin: 0;
+    padding: 10px;
+    width: 100vw;
+    height: auto;
+    min-height: 600px;
+    background-color: cadetblue;
+}
