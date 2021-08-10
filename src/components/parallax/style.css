@@ -3,6 +3,8 @@
     padding: 10px;
     width: 100vw;
     height: auto;
-    min-height: 400px;
+    min-height: 800px;
     background-color: rgb(131, 95, 160);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
