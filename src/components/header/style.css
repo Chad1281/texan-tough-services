@@ -1,9 +1,15 @@
 .header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
     margin: 0;
     padding: 10px;
     width: 100vw;
     height: auto;
-    min-height: 600px;
+    min-height: 700px;
+    /* background-attachment: fixed; */
+    /* background-position: center; */
     background-repeat: no-repeat;
     background-size: cover;
+    /* transform: scale(1.1); */
 }

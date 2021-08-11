@@ -1,8 +1,10 @@
 .section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
     margin: 0;
     padding: 10px;
     width: 100vw;
     height: auto;
-    min-height: 400px;
-    background-color: rgb(65, 115, 182);
+    background-color: rgb(191, 10, 48);
 }
