@@ -1,9 +1,9 @@
 import React from "react";
 import "./style.css";
 
-export default function Section({children}) {
+export default function Section({sectionClass, bkgdImg, children}) {
     return(
-        <div className="section">
+        <div className={sectionClass} style={{ backgroundImage:{bkgdImg} }}>
             {children}
         </div>
     )

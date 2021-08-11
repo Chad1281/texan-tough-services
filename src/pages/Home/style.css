@@ -39,7 +39,7 @@
     display: flex;
     flex-direction: column;
     margin: 0;
-    width: 50vw;
+    width: 70vw;
     font-size: 1.5rem;
     border: none;
     color: rgb(255, 255, 255);
@@ -58,4 +58,45 @@
     color: rgb(255, 255, 255);
     text-align: center;
     background-color: inherit;
+}
+
+.vidCard {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 35px 0 0 0;
+    width: 52vw;
+    font-size: 1.5rem;
+    border: none;
+    color: black;
+    text-align: center;
+    background-color: inherit;
+}
+
+.fbVidEmb {
+    margin: 35px 0 0 0;
+}
+
+.redSection {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-around;
+    margin: 0;
+    padding: 15px;
+    width: 100vw;
+    height: auto;
+    background-color: rgb(191, 10, 48);
+}
+
+.vidSection {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-around;
+    margin: 0;
+    padding: 15px;
+    width: 100vw;
+    height: auto;
+    background-color: rgb(206, 206, 206);
 }
